@@ -30,20 +30,20 @@
 | 教材 | ビデオ | 課題提出〆切 | 課題の解答 |
 | ---- | :----: | :----: | :----: |
 | [第1回：イントロダクションと<br>Google Colaboratoryの導入](docs/01/introduction_and_setup.ipynb) | 準備中 | - | - |
-| [第2回：変数（講義）](docs/02/variables_and_data_types.ipynb) | 準備中 | - | - |
-| [第3回：変数（演習）](docs/03/exercise_variables_and_data_types.ipynb) | - | TBD | [Open](docs/03_ans/answer_variables_and_data_types.ipynb) |
-| [第4回：条件分岐（講義）](docs/04/conditional_branch.ipynb) | 準備中 | - | - |
-| [第5回：条件分岐（演習）](docs/05/exercise_conditional_branch.ipynb) | - | TBD | [Open](docs/05_ans/answer_conditional_branch.ipynb) |
-| [第6回：繰り返し処理（講義）](docs/06/loops.ipynb) | 準備中 | - | - |
-| [第7回：繰り返し処理（演習）](docs/07/exercise_loops.ipynb)  | - | TBD | [Open](docs/07_ans/answer_loops.ipynb) |
-| [第8回：関数（講義）](docs/08/functions_and_scope.ipynb) | 準備中 | - | - |
-| [第9回：関数（演習）](docs/09/exercise_functions_and_scope.ipynb) |- | TBD | [Open](docs/09_ans/answer_functions_and_scope.ipynb) |
-| [第10回：クラス（講義）](docs/10/class.ipynb) | 準備中 | - | - |
-| [第11回：クラス（演習）](docs/11/exercise_class.ipynb)  | - | TBD | [Open](docs/11_ans/answer_class.ipynb) |
-| [第12回：データ分析入門（講義）](docs/12/introduction_to_data_analysis.ipynb) | 準備中 | - | - |
-| [第13回：データ分析入門（演習）](docs/13/exercise_introduction_to_data_analysis.ipynb)  | - | TBD | [Open](docs/13_ans/answer_introduction_to_data_analysis.ipynb) |
-| [第14回：機械学習入門（講義）](docs/14/introduction_to_machine_learning.ipynb) | 準備中 | - | - |
-| [第15回：機械学習入門（演習）](docs/15/exercise_introduction_to_machine_learning.ipynb)  | - | TBD | [Open](docs/15_ans/answer_introduction_to_machine_learning.ipynb) |
+| 第2回：変数（講義） | 準備中 | - | - |
+| 第3回：変数（演習） | - | TBD | [Open](docs/03_ans/answer_variables_and_data_types.ipynb) |
+| 第4回：条件分岐（講義） | 準備中 | - | - |
+| 第5回：条件分岐（演習） | - | TBD | [Open](docs/05_ans/answer_conditional_branch.ipynb) |
+| 第6回：繰り返し処理（講義） | 準備中 | - | - |
+| 第7回：繰り返し処理（演習） | - | TBD | [Open](docs/07_ans/answer_loops.ipynb) |
+| 第8回：関数（講義） | 準備中 | - | - |
+| 第9回：関数（演習） | - | TBD | [Open](docs/09_ans/answer_functions_and_scope.ipynb) |
+| 第10回：クラス（講義） | 準備中 | - | - |
+| 第11回：クラス（演習） | - | TBD | [Open](docs/11_ans/answer_class.ipynb) |
+| 第12回：データ分析入門（講義） | 準備中 | - | - |
+| 第13回：データ分析入門（演習）  | - | TBD | [Open](docs/13_ans/answer_introduction_to_data_analysis.ipynb) |
+| 第14回：機械学習入門（講義） | 準備中 | - | - |
+| 第15回：機械学習入門（演習） | - | TBD | [Open](docs/15_ans/answer_introduction_to_machine_learning.ipynb) |
 
 ## 講義スケジュール
 
