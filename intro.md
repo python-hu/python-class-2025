@@ -29,26 +29,26 @@
 
 | 教材 | ビデオ | 課題提出〆切 | 課題の解答 |
 | ---- | :----: | :----: | :----: |
-| [第1回：イントロダクションと<br>Google Colaboratoryの導入](docs/01/introduction_and_setup.ipynb) | 準備中 | - | - |
+| [第1回：イントロダクションと<br>Google Colaboratoryの導入](docs/01/introduction_and_setup.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EdBm7lGDahFMqiK66kxvMyQBR6QSTuhw-rNNatskURkKdQ) | - | - |
 | 第2回：変数（講義） | 準備中 | - | - |
-| 第3回：変数（演習） | - | TBD | [Open](docs/03_ans/answer_variables_and_data_types.ipynb) |
+| 第3回：変数（演習） | - | 10/17 | 準備中 |
 | 第4回：条件分岐（講義） | 準備中 | - | - |
-| 第5回：条件分岐（演習） | - | TBD | [Open](docs/05_ans/answer_conditional_branch.ipynb) |
+| 第5回：条件分岐（演習） | - | 10/24 | 準備中 |
 | 第6回：繰り返し処理（講義） | 準備中 | - | - |
-| 第7回：繰り返し処理（演習） | - | TBD | [Open](docs/07_ans/answer_loops.ipynb) |
+| 第7回：繰り返し処理（演習） | - | 10/31 | 準備中 |
 | 第8回：関数（講義） | 準備中 | - | - |
-| 第9回：関数（演習） | - | TBD | [Open](docs/09_ans/answer_functions_and_scope.ipynb) |
+| 第9回：関数（演習） | - | 11/7 | 準備中 |
 | 第10回：クラス（講義） | 準備中 | - | - |
-| 第11回：クラス（演習） | - | TBD | [Open](docs/11_ans/answer_class.ipynb) |
+| 第11回：クラス（演習） | - | 11/14 | 準備中 |
 | 第12回：データ分析入門（講義） | 準備中 | - | - |
-| 第13回：データ分析入門（演習）  | - | TBD | [Open](docs/13_ans/answer_introduction_to_data_analysis.ipynb) |
+| 第13回：データ分析入門（演習）  | - | 11/21 | 準備中 |
 | 第14回：機械学習入門（講義） | 準備中 | - | - |
-| 第15回：機械学習入門（演習） | - | TBD | [Open](docs/15_ans/answer_introduction_to_machine_learning.ipynb) |
+| 第15回：機械学習入門（演習） | - | 12/1 | 準備中 |
 
 ## 講義スケジュール
 
-- 毎週月曜日の9:00（目安）に資料（教材とビデオ）を本サポートページ上に掲載します．
-- 演習課題は，**資料公開日の翌週木曜 23時59分00秒まで** に提出してください．
+- 毎週水曜日の8:30（目安）に資料（教材とビデオ）を本サポートページ上に掲載します．
+- 演習課題は，**資料公開日の翌週金曜 23時59分00秒まで** に提出してください．
   - 演習課題の解答例は，その翌日に公開します．
 
 <!-- <iframe src="https://calendar.google.com/calendar/embed?src=zeropro.hu%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
