@@ -51,7 +51,7 @@
 - 演習課題は，**資料公開日の翌週金曜 23時59分00秒まで** に提出してください．
   - 演習課題の解答例は，その翌日に公開します．
 
-<!-- <iframe src="https://calendar.google.com/calendar/embed?src=zeropro.hu%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
+<iframe src="https://calendar.google.com/calendar/embed?src=zeropro.hu%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ## 課題提出
