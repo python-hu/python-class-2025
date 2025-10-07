@@ -31,8 +31,8 @@
 | 教材 | ビデオ | 課題提出〆切 | 課題の解答 |
 | ---- | :----: | :----: | :----: |
 | [第1回：イントロダクションと<br>Google Colaboratoryの導入](docs/01/introduction_and_setup.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EdBm7lGDahFMqiK66kxvMyQBR6QSTuhw-rNNatskURkKdQ) | - | - |
-| 第2回：変数（講義） | 準備中 | - | - |
-| 第3回：変数（演習） | - | 10/17 | 準備中 |
+| [第2回：変数（講義）](docs/02/variables_and_data_types.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EWO6a20NMDxLu3KdapOEocMBpODdM6c8vTO3MT0EdUn4PQ) | - | - |
+| [第3回：変数（演習）](docs/03/exercise_variables_and_data_types.ipynb) | - | 10/17 | 準備中 |
 | 第4回：条件分岐（講義） | 準備中 | - | - |
 | 第5回：条件分岐（演習） | - | 10/24 | 準備中 |
 | 第6回：繰り返し処理（講義） | 準備中 | - | - |
