@@ -32,11 +32,11 @@
 | ---- | :----: | :----: | :----: |
 | [第1回：イントロダクションと<br>Google Colaboratoryの導入](docs/01/introduction_and_setup.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EdBm7lGDahFMqiK66kxvMyQBR6QSTuhw-rNNatskURkKdQ) | - | - |
 | [第2回：変数（講義）](docs/02/variables_and_data_types.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EWO6a20NMDxLu3KdapOEocMBpODdM6c8vTO3MT0EdUn4PQ) | - | - |
-| [第3回：変数（演習）](docs/03/exercise_variables_and_data_types.ipynb) | - | 10/17 | 準備中 |
+| [第3回：変数（演習）](docs/03/exercise_variables_and_data_types.ipynb) | - | <del>10/17</del> | [Open](docs/03_ans/answer_variables_and_data_types.ipynb) |
 | [第4回：条件分岐（講義）](docs/04/conditional_branch.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EXRnpix5f9xKpcdTv02bcDoBiuacp0wipCOl0c7ttpcbNw) | - | - |
 | [第5回：条件分岐（演習）](docs/05/exercise_conditional_branch.ipynb) | - | 10/24 | 準備中 |
-| 第6回：繰り返し処理（講義） | 準備中 | - | - |
-| 第7回：繰り返し処理（演習） | - | 10/31 | 準備中 |
+| [第6回：繰り返し処理（講義）](docs/06/loops.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EY37UTdFAJZHkQBqKCd_tNsB4PtkaqDqzA4gRZPGiYD6ig) | - | - |
+| [第7回：繰り返し処理（演習）](docs/07/exercise_loops.ipynb) | - | 10/31 | 準備中 |
 | 第8回：関数（講義） | 準備中 | - | - |
 | 第9回：関数（演習） | - | 11/7 | 準備中 |
 | 第10回：クラス（講義） | 準備中 | - | - |
@@ -51,7 +51,9 @@
 - 『基礎から学ぶPythonプログラミング データサイエンスへの第一歩』（培風館）
   - 相澤宏旭・古居彬 著
   - 本講義の内容に対応した参考書です．必須ではありませんが，講義内容をより深く理解したい方は購入を検討してください．
-  - 10月下旬に発売予定です（生協を通して購入可能です）．
+  - 10月下旬に発売予定です（生協等を通して購入可能です）．
+    - [Amazon](https://amzn.asia/d/ck7vhoD)
+    - [楽天ブックス](https://books.rakuten.co.jp/rb/18406606/)
 
 ## 講義スケジュール
 
