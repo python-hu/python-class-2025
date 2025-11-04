@@ -36,11 +36,11 @@
 | [第4回：条件分岐（講義）](docs/04/conditional_branch.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EXRnpix5f9xKpcdTv02bcDoBiuacp0wipCOl0c7ttpcbNw) | - | - |
 | [第5回：条件分岐（演習）](docs/05/exercise_conditional_branch.ipynb) | - | <del>10/24</del> | [Open](docs/05_ans/answer_conditional_branch.ipynb) |
 | [第6回：繰り返し処理（講義）](docs/06/loops.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EY37UTdFAJZHkQBqKCd_tNsB4PtkaqDqzA4gRZPGiYD6ig) | - | - |
-| [第7回：繰り返し処理（演習）](docs/07/exercise_loops.ipynb) | - | 10/31 | 準備中 |
+| [第7回：繰り返し処理（演習）](docs/07/exercise_loops.ipynb) | - | <del>10/31</del> | [Open](docs/07_ans/answer_loops.ipynb) |
 | [第8回：関数（講義）](docs/08/functions_and_scope.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EXXaQYxfNGNFgH_pHUh-5YUB1n11WHsM4WZYgfVbgEqxBg) | - | - |
 | [第9回：関数（演習）](docs/09/exercise_functions_and_scope.ipynb) | - | 11/7 | 準備中 |
-| 第10回：クラス（講義） | 準備中 | - | - |
-| 第11回：クラス（演習） | - | 11/14 | 準備中 |
+| [第10回：クラス（講義）](docs/10/class.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQCmi8U0upjsRrSrcMRvSXd1AXcf7OlrArPCqAjN-swCkd8) | - | - |
+| [第11回：クラス（演習）](docs/11/exercise_class.ipynb) | - | 11/14 | 準備中 |
 | 第12回：データ分析入門（講義） | 準備中 | - | - |
 | 第13回：データ分析入門（演習）  | - | 11/21 | 準備中 |
 | 第14回：機械学習入門（講義） | 準備中 | - | - |
