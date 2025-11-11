@@ -5,6 +5,7 @@
 担当教員：相澤宏旭，古居彬
 
 ````{card} お知らせ
+- [【重要】期末試験に関する情報](docs/exam.md) を追加しました（2025/11/12）
 - 本ページを公開しました（2025/10/01）
 ````
 
@@ -38,11 +39,11 @@
 | [第6回：繰り返し処理（講義）](docs/06/loops.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EY37UTdFAJZHkQBqKCd_tNsB4PtkaqDqzA4gRZPGiYD6ig) | - | - |
 | [第7回：繰り返し処理（演習）](docs/07/exercise_loops.ipynb) | - | <del>10/31</del> | [Open](docs/07_ans/answer_loops.ipynb) |
 | [第8回：関数（講義）](docs/08/functions_and_scope.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EXXaQYxfNGNFgH_pHUh-5YUB1n11WHsM4WZYgfVbgEqxBg) | - | - |
-| [第9回：関数（演習）](docs/09/exercise_functions_and_scope.ipynb) | - | 11/7 | 準備中 |
+| [第9回：関数（演習）](docs/09/exercise_functions_and_scope.ipynb) | - | <del>11/7</del> | [Open](docs/09_ans/answer_functions_and_scope.ipynb) |
 | [第10回：クラス（講義）](docs/10/class.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQCmi8U0upjsRrSrcMRvSXd1AXcf7OlrArPCqAjN-swCkd8) | - | - |
 | [第11回：クラス（演習）](docs/11/exercise_class.ipynb) | - | 11/14 | 準備中 |
-| 第12回：データ分析入門（講義） | 準備中 | - | - |
-| 第13回：データ分析入門（演習）  | - | 11/21 | 準備中 |
+| [第12回：データ分析入門（講義）](docs/12/introduction_to_data_analysis.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQC5v8sQory2QrVccYXXHOCxAc9zJelhoD1Y5JQBF2WAzT0) | - | - |
+| [第13回：データ分析入門（演習）](docs/13/exercise_introduction_to_data_analysis.ipynb) | - | 11/21 | 準備中 |
 | 第14回：機械学習入門（講義） | 準備中 | - | - |
 | 第15回：機械学習入門（演習） | - | 12/1 | 準備中 |
 
@@ -91,7 +92,7 @@
 
 - 毎週の課題提出状況と，期末試験の成績を踏まえて総合的に評価します．
 - 期末試験の詳細は試験日程が近づいたら記載します．
-<!-- - 期末試験の詳細は [こちら](docs/exam.md) を確認してください． -->
+- 期末試験の詳細は [こちら](docs/exam.md) を確認してください．
 
 
 ## 開講情報
