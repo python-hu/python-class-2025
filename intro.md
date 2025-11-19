@@ -41,11 +41,11 @@
 | [第8回：関数（講義）](docs/08/functions_and_scope.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/EXXaQYxfNGNFgH_pHUh-5YUB1n11WHsM4WZYgfVbgEqxBg) | - | - |
 | [第9回：関数（演習）](docs/09/exercise_functions_and_scope.ipynb) | - | <del>11/7</del> | [Open](docs/09_ans/answer_functions_and_scope.ipynb) |
 | [第10回：クラス（講義）](docs/10/class.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQCmi8U0upjsRrSrcMRvSXd1AXcf7OlrArPCqAjN-swCkd8) | - | - |
-| [第11回：クラス（演習）](docs/11/exercise_class.ipynb) | - | 11/14 | 準備中 |
+| [第11回：クラス（演習）](docs/11/exercise_class.ipynb) | - | <del>11/14</del> | [Open](docs/11_ans/answer_class.ipynb) |
 | [第12回：データ分析入門（講義）](docs/12/introduction_to_data_analysis.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQC5v8sQory2QrVccYXXHOCxAc9zJelhoD1Y5JQBF2WAzT0) | - | - |
 | [第13回：データ分析入門（演習）](docs/13/exercise_introduction_to_data_analysis.ipynb) | - | 11/21 | 準備中 |
-| 第14回：機械学習入門（講義） | 準備中 | - | - |
-| 第15回：機械学習入門（演習） | - | 12/1 | 準備中 |
+| [第14回：機械学習入門（講義）](docs/14/introduction_to_machine_learning.ipynb) | [Play](https://hiroshimauniv-my.sharepoint.com/:v:/g/personal/furui_hiroshima-u_ac_jp/IQAWPH9oDXzAQb5gWf_u77YYAT1MUJq2lNblb3Rrpd_mooQ) | - | - |
+| [第15回：機械学習入門（演習）](docs/15/exercise_introduction_to_machine_learning.ipynb) | - | 12/1 | 準備中 |
 
 ## 参考書
 
